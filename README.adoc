@@ -1,3 +1,6 @@
+---
+categories: [data,neo4j]
+---
 :toc:
 :icons: font
 :source-highlighter: prettify

@@ -1,5 +1,6 @@
 ---
 categories: [data,neo4j]
+projects: [spring-data-neo4j]
 ---
 :toc:
 :icons: font

@@ -1,5 +1,5 @@
 ---
-categories: [data,neo4j]
+tags: [data,neo4j]
 projects: [spring-data-neo4j]
 ---
 :toc:
